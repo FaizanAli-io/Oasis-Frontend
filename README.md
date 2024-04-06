@@ -1,6 +1,8 @@
-# FrontEnd
+# Social Media App Frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+A Social Media Application Frontend, built using Vue.js and Tailwind.css
+
+Backend available at: [Social Media Backend](https://github.com/FaizanAli-io/Social-Media-Backend)
 
 ## Recommended IDE Setup
 
