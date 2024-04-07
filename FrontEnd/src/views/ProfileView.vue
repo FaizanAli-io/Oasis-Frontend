@@ -112,9 +112,7 @@ export default {
         }
     },
 
-    mounted() {
-        this.getFeed()
-    },
+    mounted() { this.getFeed() },
 
     watch: {
         '$route.params.id': {
@@ -176,6 +174,7 @@ export default {
 
         deletePost(id) {
             this.posts = this.posts.filter(post => post.id != id)
+            this.user.post_count -= 1
         },
 
         signout() {
