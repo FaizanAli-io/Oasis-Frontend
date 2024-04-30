@@ -2,6 +2,8 @@
 
 A Social Media Application Frontend, built using Vue.js and Tailwind.css
 
+Currently deployed using Vercel at: [Website URL](https://social-media-frontend-opal-two.vercel.app/)
+
 Backend available at: [Social Media Backend](https://github.com/FaizanAli-io/Social-Media-Backend)
 
 ## Recommended IDE Setup
